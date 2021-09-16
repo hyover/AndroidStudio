@@ -1,2 +1,2 @@
 # Projets Applications
-conçu avec les cours Openclassrooms
+Projets personnels et projets école formation Openclassrooms
