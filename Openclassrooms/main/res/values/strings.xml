@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz Perso</string>
+    <string name="welcome_back_with_score" />
+    <string name="welcome_back" />
+</resources>
