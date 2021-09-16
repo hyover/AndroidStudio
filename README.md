@@ -1,1 +1,2 @@
-# Projets Application conçu avec les cours Openclassrooms
+# Projets Applications
+conçu avec les cours Openclassrooms
