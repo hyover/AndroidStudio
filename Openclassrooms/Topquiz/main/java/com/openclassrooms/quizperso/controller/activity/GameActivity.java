@@ -109,7 +109,7 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
         );
 
         Question question2 = new Question(
-                "Dans quel ville je suis née ?",
+                "Dans quelle ville je suis née ?",
                 Arrays.asList(
                         "Draguignan",
                         "Nancy",
@@ -131,7 +131,7 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
         );
 
         Question question4 = new Question(
-                "Quel réorientaiton j'envisage ?",
+                "Quel réorientation j'envisage ?",
                 Arrays.asList(
                         "Développeur Web",
                         "Architecte logiciel",
@@ -153,7 +153,7 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
         );
 
         Question question6 = new Question(
-                "Quel est mon record pour effectué un rubik's cube 3x3?",
+                "Quel est mon record pour effectuer un rubik's cube 3x3?",
                 Arrays.asList(
                         "28 secondes",
                         "37 secondes",
@@ -175,7 +175,7 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
         );
 
         Question question8 = new Question(
-                "Quelle ville je n'ai jamais visité ?",
+                "Quelle ville je n'ai jamais visitée ?",
                 Arrays.asList(
                         "Amsterdam",
                         "Puhket",
