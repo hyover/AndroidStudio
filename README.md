@@ -1,2 +1,2 @@
 # Projets Applications
-Projets personnels et projets école formation Openclassrooms
+Projets personnels en Java/Kotlin
